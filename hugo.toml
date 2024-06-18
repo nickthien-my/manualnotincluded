@@ -1,4 +1,14 @@
-baseURL = 'https://nickthien-my.github.io/manualnotincluded'
+baseURL = 'https://nickthien-my.github.io/manualnotincluded/'
 languageCode = 'en-us'
 title = 'Manual Not Included'
 theme = 'mainroad'
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+  text_color = ""
+  author = "Nicholas Thien"
+  favicon = ""
+  site_logo = ""
+  description = "Gaming from a different corner of the World"

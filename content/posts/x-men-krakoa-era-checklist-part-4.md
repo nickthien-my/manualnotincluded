@@ -1,6 +1,6 @@
 +++
-title = 'X-Men Krakoa Era Checklist (Part 1: House of X/Powers of X, Dawn of X)'
-date = 2024-06-14T00:00:00+08:00
+title = 'X-Men Krakoa Era Checklist (Part 4: Fall of X)'
+date = 2024-06-14T00:03:00+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
 categories = ["Checklist"]
 +++

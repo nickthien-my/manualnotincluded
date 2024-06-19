@@ -396,32 +396,14 @@ categories = ["Checklist"]
 | Dawn of X Vol. 2 | ![Dawn of X Vol. 2 Cover][DoX2 Cover] | - X-Men (2019) #2 - X-Force (2019) #2<br>Marauders (2019) #2<br>Excalibur (2019) #2<br>Fallen Angels (2019) #2<br>New Mutants (2019) #2 |
 
 
-
-
-
-
-
-
-
-
-
-## X of Swords
-
-## Reign of X
-
-## Trials of X
-
-## Destiny of X
-
-## Sins of Sinister
-
-## Fall of X
-
+[Part 2: X of Swords/Reign of X][Part 2 Link]\
+[Part 3: Sins of Sinister/Hellfire Gala/Trail of X][Part 3 Link]\
+[Part 4: Fall of X][Part 4 Link]
 
 [^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
-[Hox/Pox Cover]: /manualnotincluded/images/houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
 [DoX]: https://www.marvel.com/comics/guides/1664/dawn_of_x 'Dawn of X'
-[DoX1 Cover]: /manualnotincluded/images/dawnofx_vol01_tpb_cover.webp 'Dawn of X Vol. 1 Cover'
-[DoX2 Cover]: /manualnotincluded/images/dawnofx_vol02_tpb_cover.webp 'Dawn of X Vol. 2 Cover'
+[Part 2 Link]: ../x-men-krakoa-era-checklist-part-2
+[Part 3 Link]: ../x-men-krakoa-era-checklist-part-3
+[Part 4 Link]: ../x-men-krakoa-era-checklist-part-4

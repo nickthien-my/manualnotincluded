@@ -1,6 +1,6 @@
 +++
 title = 'X-Men Krakoa Era Checklist (Part 1: House of X/Powers of X, Dawn of X)'
-date = 2024-06-14T00:49:50+08:00
+date = 2024-06-14T00:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
 categories = ["Checklist"]
 +++
@@ -8,8 +8,8 @@ categories = ["Checklist"]
 # Table of Contents
 - [House of X/Powers of X](#house-of-xpowers-of-x)
 - [Dawn of X](#dawn-of-x)
-- [X of Swords](./x-men-krakoa-era-checklist-part-2.md/#)
-- [Reign of X](./x-men-krakoa-era-checklist-part-2.md)
+- [X of Swords](../x-men-krakoa-era-checklist-part-2.md/)
+- [Reign of X](../x-men-krakoa-era-checklist-part-2.md)
 - [Trials of X](#trials-of-x)
 - Fall of X/Fall of House of X
 

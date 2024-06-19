@@ -6,8 +6,8 @@ categories = ["Checklist"]
 +++
 
 # Table of Contents
-- [House of X/Powers of X](./x-men-krakoa-era-checklist-part-1.md)
-- [Dawn of X](x-men-krakoa-era-checklist-part-1.md)
+- [House of X/Powers of X](../x-men-krakoa-era-checklist-part-1/#house-of-xpowers-of-x)
+- [Dawn of X](../x-men-krakoa-era-checklist-part-1/#dawn-of-x)
 - [X of Swords](#x-of-swords)
 - [Reign of X](#reign-of-x)
 - [Trials of X](#trials-of-x)

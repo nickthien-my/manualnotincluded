@@ -8,8 +8,8 @@ categories = ["Checklist"]
 # Table of Contents
 - [House of X/Powers of X](#house-of-xpowers-of-x)
 - [Dawn of X](#dawn-of-x)
-- [X of Swords](../x-men-krakoa-era-checklist-part-2.md/)
-- [Reign of X](../x-men-krakoa-era-checklist-part-2.md)
+- [X of Swords](../x-men-krakoa-era-checklist-part-2/)
+- [Reign of X](../x-men-krakoa-era-checklist-part-2)
 - [Trials of X](#trials-of-x)
 - Fall of X/Fall of House of X
 
@@ -37,8 +37,6 @@ categories = ["Checklist"]
 - [ ] [Dawn of X Vol. 14](#dawn-of-x-vol-14)
 - [ ] [Dawn of X Vol. 15](#dawn-of-x-vol-15)
 - [ ] [Dawn of X Vol. 16](#dawn-of-x-vol-16)
-
-
 
 ---
 

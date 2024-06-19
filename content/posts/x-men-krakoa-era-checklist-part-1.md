@@ -15,11 +15,11 @@ categories = ["Checklist"]
 
 # TPB Checklist
 
-**House of X/Powers of X**
+## House of X/Powers of X
 
-- [ ] [House of X/Powers of X](#house-of-xpowers-of-x-1)
+- [ ] [House of X/Powers of X](#house-of-xpowers-of-x-2)
 
-**Dawn of X**
+## Dawn of X
 
 - [ ] [Dawn of X Vol. 1](#dawn-of-x-vol-1)
 - [ ] [Dawn of X Vol. 2](#dawn-of-x-vol-2)
@@ -40,9 +40,9 @@ categories = ["Checklist"]
 
 ---
 
-# House of X/Powers of X
-
 ## House of X/Powers of X
+
+### House of X/Powers of X
 
 <p>
 <img src="/manualnotincluded/images/houseofx_powersofx_tpb_cover.webp" width="400px" alt="House of X/Powers of X TPB Cover" title="House of X/Powers of X TPB Cover">
@@ -55,12 +55,12 @@ categories = ["Checklist"]
 
 ---
 
-# Dawn of X
+## Dawn of X
 
-## Dawn of X Vol. 1
+### Dawn of X Vol. 1
 
 <p>
-<img src="/manualnotincluded/images/dawnofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+    <img src="/manualnotincluded/images/dawnofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
 </p>
 
 **Issues Collected**
@@ -74,7 +74,7 @@ categories = ["Checklist"]
 
 ---
 
-## Dawn of X Vol. 2
+### Dawn of X Vol. 2
 
 <p>
 <img src="/manualnotincluded/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">

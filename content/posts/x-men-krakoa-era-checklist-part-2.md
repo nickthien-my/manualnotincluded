@@ -78,14 +78,14 @@ categories = ["Checklist"]
 
 ---
 
-[Part 2: X of Swords/Reign of X][Part 2 Link]\
-[Part 3: Sins of Sinister/Hellfire Gala/Trail of X][Part 3 Link]\
+[Part 1: House of X/Powers of X, Dawn of X][Part 1 Link]\
+[Part 3: Sins of Sinister, Hellfire Gala, Trail of X][Part 3 Link]\
 [Part 4: Fall of X][Part 4 Link]
 
 [^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
 [DoX]: https://www.marvel.com/comics/guides/1664/dawn_of_x 'Dawn of X'
-[Part 2 Link]: ../x-men-krakoa-era-checklist-part-2
+[Part 1 Link]: ../x-men-krakoa-era-checklist-part-1
 [Part 3 Link]: ../x-men-krakoa-era-checklist-part-3
 [Part 4 Link]: ../x-men-krakoa-era-checklist-part-4

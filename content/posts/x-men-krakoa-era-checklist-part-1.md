@@ -322,8 +322,8 @@ categories = ["Checklist"]
 
 ---
 
-[Part 2: X of Swords/Reign of X][Part 2 Link]\
-[Part 3: Sins of Sinister/Hellfire Gala/Trail of X][Part 3 Link]\
+[Part 2: X of Swords, Reign of X][Part 2 Link]\
+[Part 3: Sins of Sinister, Hellfire Gala, Trail of X][Part 3 Link]\
 [Part 4: Fall of X][Part 4 Link]
 
 [^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.

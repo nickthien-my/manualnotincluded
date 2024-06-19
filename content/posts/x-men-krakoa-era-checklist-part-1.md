@@ -8,7 +8,7 @@ categories = ["Checklist"]
 # Table of Contents
 - [House of X/Powers of X](#house-of-xpowers-of-x)
 - [Dawn of X](#dawn-of-x)
-- [X of Swords](../x-men-krakoa-era-checklist-part-2/)
+- [X of Swords](../x-men-krakoa-era-checklist-part-2)
 - [Reign of X](../x-men-krakoa-era-checklist-part-2)
 - [Trials of X](#trials-of-x)
 - Fall of X/Fall of House of X
@@ -325,84 +325,9 @@ categories = ["Checklist"]
 
 ---
 
+[Part 2: X of Swords/Reign of X][Part 2 Link]
+[Part 3: Sins of Sinister/Hellfire Gala/Trail of X][Part 3 Link]
 
-
-
-
-
-
-**Dawn of X Vol. 2 (2020)**
-
-![Dawn of X Vol. 2 Cover][DoX2 Cover]
-
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
-
-![Dawn of X Vol. 3 Cover][DoX3 Cover]
-![Dawn of X Vol. 4 Cover][DoX4 Cover]
-![Dawn of X Vol. 5 Cover][DoX5 Cover]
-![Dawn of X Vol. 6 Cover][DoX6 Cover]
-![Dawn of X Vol. 7 Cover][DoX7 Cover]
-![Dawn of X Vol. 8 Cover][DoX8 Cover]
-![Dawn of X Vol. 9 Cover][DoX9 Cover]
-![Dawn of X Vol. 10 Cover][DoX10 Cover]
-![Dawn of X Vol. 11 Cover][DoX11 Cover]
-![Dawn of X Vol. 12 Cover][DoX12 Cover]
-![Dawn of X Vol. 13 Cover][DoX13 Cover]
-
-**Dawn of X Vol. 14**
-
-![Dawn of X Vol. 14 Cover][DoX14 Cover]
-
-- X-Men (2019) #12
-- Excalibur (2019) #11-12
-- X-Force (2019) #11-12
-- Giant-Size X-Men: Storm (2020) #1
-
-![Dawn of X Vol. 15 Cover][DoX15 Cover]
-![Dawn of X Vol. 16 Cover][DoX16 Cover]
-
-
-| ![House of X/Powers of X Cover][Hox/Pox Cover] | ![Dawn of X Vol. 1 Cover][DoX1 Cover] | ![Dawn of X Vol. 2 Cover][DoX2 Cover] |
-| --- | --- | --- |
-| **House of X/Powers of X** | **Dawn of X Vol. 1** | **Dawn of X Vol. 2** |
-| House of X #1-6<br>Powers of X #1-6 | X-Men (2019) #1<br>X-Force (2019) #1<br>Marauders (2019) #1<br>Excalibur (2019) #1<br>Fallen Angels (2019) #1<br>New Mutants (2019) #1 | X-Men (2019) #2<br>X-Force (2019) #2<br>Marauders (2019) #2<br>Excalibur (2019) #2<br>Fallen Angels (2019) #2<br>New Mutants (2019) #2 |
-| 
-
-|  | X-Men (2019) #1\ X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1 | X-Men (2019) #1\ X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1
-
-
-| Title | Cover | Issues Collected |
-|  ---  | ----- | ---------------- |
-| House of X/Powers of X | ![House of X/Powers of X Cover][Hox/Pox Cover] | House of X #1–6<br>Powers of X #1–6
-| Dawn of X Vol. 1 | ![Dawn of X Vol. 1 Cover][DoX1 Cover] | X-Men (2019) #1<br>X-Force (2019) #1<br>Marauders (2019) #1<br>Excalibur (2019) #1<br>Fallen Angels (2019) #1<br>New Mutants (2019) #1 |
-| Dawn of X Vol. 2 | ![Dawn of X Vol. 2 Cover][DoX2 Cover] | - X-Men (2019) #2 - X-Force (2019) #2<br>Marauders (2019) #2<br>Excalibur (2019) #2<br>Fallen Angels (2019) #2<br>New Mutants (2019) #2 |
-
-
-
-
-
-
-
-
-
-
-
-## X of Swords
-
-## Reign of X
-
-## Trials of X
-
-## Destiny of X
-
-## Sins of Sinister
-
-## Fall of X
 
 
 [^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.
@@ -412,3 +337,4 @@ categories = ["Checklist"]
 [DoX]: https://www.marvel.com/comics/guides/1664/dawn_of_x 'Dawn of X'
 [DoX1 Cover]: /manualnotincluded/images/dawnofx_vol01_tpb_cover.webp 'Dawn of X Vol. 1 Cover'
 [DoX2 Cover]: /manualnotincluded/images/dawnofx_vol02_tpb_cover.webp 'Dawn of X Vol. 2 Cover'
+[Part 2 Link]: ../x-men-krakoa-era-checklist-part-2

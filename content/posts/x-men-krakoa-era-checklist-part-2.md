@@ -66,7 +66,217 @@ categories = ["Checklist"]
 ### Reign of X Vol. 1
 
 <p>
-<img src="/manualnotincluded/images/reignofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+    <img src="/manualnotincluded/images/reignofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 1
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 2
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 3
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol03_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 4
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol04_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 5
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol05_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 6
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol06_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 7
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol07_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 8
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol08_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 9
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol09_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 10
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol10_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 11
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol11_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 12
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol12_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 13
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol13_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- S.W.O.R.D. (2020) #1
+- X-Men (2019) #16
+- X-Factor (2020) #5
+- Hellions (2020) #7–8
+
+---
+
+### Reign of X Vol. 14
+
+<p>
+    <img src="/manualnotincluded/images/reignofx_vol14_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
 </p>
 
 **Issues Collected**

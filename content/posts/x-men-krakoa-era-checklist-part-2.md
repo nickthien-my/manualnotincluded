@@ -17,24 +17,24 @@ categories = ["Checklist"]
 
 **X of Swords**
 
-- [ ] X of Swords
+- [ ] [X of Swords](#x-of-swords)
 
 **Reign of X**
 
-- [ ] Reign of X Vol. 1
-- [ ] Reign of X Vol. 2
-- [ ] Reign of X Vol. 3
-- [ ] Reign of X Vol. 4
-- [ ] Reign of X Vol. 5
-- [ ] Reign of X Vol. 6
-- [ ] Reign of X Vol. 7
-- [ ] Reign of X Vol. 8
-- [ ] Reign of X Vol. 9
-- [ ] Reign of X Vol. 10
-- [ ] Reign of X Vol. 11
-- [ ] Reign of X Vol. 12
-- [ ] Reign of X Vol. 13
-- [ ] Reign of X Vol. 14
+- [ ] [Reign of X Vol. 1](#reign-of-x-vol-1)
+- [ ] [Reign of X Vol. 2](#reign-of-x-vol-2)
+- [ ] [Reign of X Vol. 3](#reign-of-x-vol-3)
+- [ ] [Reign of X Vol. 4](#reign-of-x-vol-4)
+- [ ] [Reign of X Vol. 5](#reign-of-x-vol-5)
+- [ ] [Reign of X Vol. 6](#reign-of-x-vol-6)
+- [ ] [Reign of X Vol. 7](#reign-of-x-vol-7)
+- [ ] [Reign of X Vol. 8](#reign-of-x-vol-8)
+- [ ] [Reign of X Vol. 9](#reign-of-x-vol-9)
+- [ ] [Reign of X Vol. 10](#reign-of-x-vol-10)
+- [ ] [Reign of X Vol. 11](#reign-of-x-vol-11)
+- [ ] [Reign of X Vol. 12](#reign-of-x-vol-12)
+- [ ] [Reign of X Vol. 13](#reign-of-x-vol-13)
+- [ ] [Reign of X Vol. 14](#reign-of-x-vol-14)
 
 ---
 

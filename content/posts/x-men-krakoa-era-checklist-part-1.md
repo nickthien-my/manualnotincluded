@@ -1,5 +1,5 @@
 +++
-title = 'X-Men Krakoa Era Checklist'
+title = 'X-Men Krakoa Era Checklist (Part 1: House of X/Powers of X, Dawn of X)'
 date = 2024-06-14T00:49:50+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
 categories = ["Checklist"]
@@ -8,8 +8,8 @@ categories = ["Checklist"]
 # Table of Contents
 - [House of X/Powers of X](#house-of-xpowers-of-x)
 - [Dawn of X](#dawn-of-x)
-- [X of Swords](#x-of-swords)
-- [Reign of X](#reign-of-x)
+- [X of Swords](./x-men-krakoa-era-checklist-part-2.md/#)
+- [Reign of X](./x-men-krakoa-era-checklist-part-2.md)
 - [Trials of X](#trials-of-x)
 - Fall of X/Fall of House of X
 
@@ -38,41 +38,7 @@ categories = ["Checklist"]
 - [ ] [Dawn of X Vol. 15](#dawn-of-x-vol-15)
 - [ ] [Dawn of X Vol. 16](#dawn-of-x-vol-16)
 
-**X of Swords**
 
-- [ ] X of Swords
-
-**Reign of X**
-
-- [ ] Reign of X Vol. 1
-- [ ] Reign of X Vol. 2
-- [ ] Reign of X Vol. 3
-- [ ] Reign of X Vol. 4
-- [ ] Reign of X Vol. 5
-- [ ] Reign of X Vol. 6
-- [ ] Reign of X Vol. 7
-- [ ] Reign of X Vol. 8
-- [ ] Reign of X Vol. 9
-- [ ] Reign of X Vol. 10
-- [ ] Reign of X Vol. 11
-- [ ] Reign of X Vol. 12
-- [ ] Reign of X Vol. 13
-- [ ] Reign of X Vol. 14
-
-**Trial of X**
-
-- [ ] Trial of X Vol. 1
-- [ ] Trial of X Vol. 2
-- [ ] Trial of X Vol. 3
-- [ ] Trial of X Vol. 4
-- [ ] Trial of X Vol. 5
-- [ ] Trial of X Vol. 6
-- [ ] Trial of X Vol. 7
-- [ ] Trial of X Vol. 8
-- [ ] Trial of X Vol. 9
-- [ ] Trial of X Vol. 10
-- [ ] Trial of X Vol. 11
-- [ ] Trial of X Vol. 12
 
 ---
 

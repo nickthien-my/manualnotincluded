@@ -42,7 +42,7 @@ Here's a list of issues that are in volume 11 and 12:
 7. Immortal X-Men #1–3
 8. Legion of X #1–5
 9. X-Men: Red #1
-10. Giant-Size X-Men: Thunderbird #1
+10. Giant-Size X-Men: Thunderbird #1[^2]
 11. X-Men: Red #2–3
 12. Knights of X #1–5
 13. Marauders Annual #1
@@ -177,11 +177,16 @@ Here's a list of issues that are in volume 11 and 12:
 
 | Title | Material Collected | Cover |
 | --- | --- | --- |
+| A.X.E.: Judgment Day | A.X.E.: Judgment Day (2022) #1-6<br>A.X.E.: Avengers (2022) #1<br>A.X.E.: X-Men (2022) #1<br>A.X.E.: Eternals (2022) #1<br>Free Comic Book Day 2022: Avengers/X-Men #1 | |
+| A.X.E.: Judgment Day Companion | A.X.E.: Eve of Judgment (2022) #1<br>A.X.E.: Judgment Day Omega (2022) #1<br>A.X.E.: Death to the Mutants (2022) #1-3<br>A.X.E.: Starfox (2022) #1<br>A.X.E.: Iron Fist (2022) #1<br>Fantastic Four (2018) #47-48 | |
 | Immortal X-Men by Kieron Gillen Vol. 1 | Immortal X-Men (2022) #1-6 | |
 | Immortal X-Men by Kieron Gillen Vol. 2 | Immortal X-Men (2022) #7-10  | |
 | Immortal X-Men by Kieron Gillen Vol. 3 | Immortal X-Men (2022) #11-13<br>X-Men: Before the Fall - Sinister Four (2023) #1 | |
+| Knights of X | Knights of X (2022) #1-5 | |
 | Legion of X by Si Spurrier Vol. 1 | Legions of X (2022) #1-5 | |
 | Legion of X by Si Spurrier Vol. 2 | Legions of X (2022) #6-10 | |
+| Marauders by Steve Orlando Vol. 1 | Marauders Annual (2022) #1<br>Marauders (2022) #1-5<br>Marvel's Voices Pride (2021) #1 (Somnus) | |
+| Marauders by Steve Orlando Vol. 2 | Marauders (2022) #6-10 | |
 | New Mutants by Vita Ayala Vol. 3 | New Mutants (2019) #25-28 | |
 | New Mutants Vol. 4 | New Mutants (2019) #29-33 | |
 | Sabretooth: The Adversary | Sabretooth (2022) #1-5 | |
@@ -195,4 +200,7 @@ Here's a list of issues that are in volume 11 and 12:
 | X-Men by Gerry Duggan Vol. 2 | X-Men (2021) #7-12 | |
 | X-Men by Gerry Duggan Vol. 3 | X-Men (2021) #13-18 | |
 | X-Men by Gerry Duggan Vol. 4 | X-Men (2021) #19-24 | |
+| X-Men Red by Al Ewing Vol. 1 | X-Men Red (2022) #1-5 | |
+| X-Men Red by Al Ewing Vol. 2 | X-Men Red (2022) #6-10 | |
+| X-Men Red by Al Ewing Vol. 3 | X-Men Red (2022) #11-13 | |
 | X Lives & Death of Wolverine | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 | |

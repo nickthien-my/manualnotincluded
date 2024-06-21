@@ -175,21 +175,21 @@ Here's a list of issues that are in volume 11 and 12:
 
 #### Collected Editions
 
-| Title | Material Collected | Cover |
+| Title | Cover | Material Collected |
 | --- | --- | --- |
-| A.X.E.: Judgment Day | A.X.E.: Judgment Day (2022) #1-6<br>A.X.E.: Avengers (2022) #1<br>A.X.E.: X-Men (2022) #1<br>A.X.E.: Eternals (2022) #1<br>Free Comic Book Day 2022: Avengers/X-Men #1 | |
-| A.X.E.: Judgment Day Companion | A.X.E.: Eve of Judgment (2022) #1<br>A.X.E.: Judgment Day Omega (2022) #1<br>A.X.E.: Death to the Mutants (2022) #1-3<br>A.X.E.: Starfox (2022) #1<br>A.X.E.: Iron Fist (2022) #1<br>Fantastic Four (2018) #47-48 | |
-| Immortal X-Men by Kieron Gillen Vol. 1 | Immortal X-Men (2022) #1-6 | |
-| Immortal X-Men by Kieron Gillen Vol. 2 | Immortal X-Men (2022) #7-10  | |
-| Immortal X-Men by Kieron Gillen Vol. 3 | Immortal X-Men (2022) #11-13<br>X-Men: Before the Fall - Sinister Four (2023) #1 | |
-| Knights of X | Knights of X (2022) #1-5 | |
-| Legion of X by Si Spurrier Vol. 1 | Legions of X (2022) #1-5 | |
-| Legion of X by Si Spurrier Vol. 2 | Legions of X (2022) #6-10 | |
-| Marauders by Steve Orlando Vol. 1 | Marauders Annual (2022) #1<br>Marauders (2022) #1-5<br>Marvel's Voices Pride (2021) #1 (Somnus) | |
-| Marauders by Steve Orlando Vol. 2 | Marauders (2022) #6-10 | |
-| New Mutants by Vita Ayala Vol. 3 | New Mutants (2019) #25-28 | |
-| New Mutants Vol. 4 | New Mutants (2019) #29-33 | |
-| Sabretooth: The Adversary | <img src="/manualnotincluded/images/sabretooth_-_theadversary_tpb_cover.webp" width="250px" alt="Sabretooth: The Adversary TPB Cover" title="Sabretooth: The Adversary TPB Cover">| Sabretooth (2022) #1-5 |
+| A.X.E.: Judgment Day | <img src="/manualnotincluded/images/axe_-_judgmentday_tpb_cover.webp" width="250px" alt="A.X.E.: Judgment Day TPB Cover" title="A.X.E.: Judgment Day TPB Cover"> |A.X.E.: Judgment Day (2022) #1-6<br>A.X.E.: Avengers (2022) #1<br>A.X.E.: X-Men (2022) #1<br>A.X.E.: Eternals (2022) #1<br>Free Comic Book Day 2022: Avengers/X-Men #1 |
+| A.X.E.: Judgment Day Companion | <img src="/manualnotincluded/images/axe_-_judgmentdaycompanion_tpb_cover.webp" width="250px" alt="A.X.E.: Judgment Day Companion TPB Cover" title="A.X.E.: Judgment Day Companion TPB Cover"> |A.X.E.: Eve of Judgment (2022) #1<br>A.X.E.: Judgment Day Omega (2022) #1<br>A.X.E.: Death to the Mutants (2022) #1-3<br>A.X.E.: Starfox (2022) #1<br>A.X.E.: Iron Fist (2022) #1<br>Fantastic Four (2018) #47-48 |
+| Immortal X-Men by Kieron Gillen Vol. 1 | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v01_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 1 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 1 TPB Cover"> | Immortal X-Men (2022) #1-6 |
+| Immortal X-Men by Kieron Gillen Vol. 2 | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v02_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover"> | Immortal X-Men (2022) #7-10  |
+| Immortal X-Men by Kieron Gillen Vol. 3 | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v03_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover"> | Immortal X-Men (2022) #11-13<br>X-Men: Before the Fall - Sinister Four (2023) #1 |
+| Knights of X | <img src="/manualnotincluded/images/knightsofx_tpb_cover.webp" width="250px" alt="Knights of X TPB Cover" title="Knights of X TPB Cover"> | Knights of X (2022) #1-5 |
+| Legion of X by Si Spurrier Vol. 1 | <img src="/manualnotincluded/images/legionofxbysispurrier_v01_tpb_cover.webp" width="250px" alt="Legion of X by Si Spurrier Vol. 1 TPB Cover" title="Legion of X by Si Spurrier Vol. 1 TPB Cover"> | Legions of X (2022) #1-5 |
+| Legion of X by Si Spurrier Vol. 2 | <img src="/manualnotincluded/images/legionofxbysispurrier_v02_tpb_cover.webp" width="250px" alt="Legion of X by Si Spurrier Vol. 2 TPB Cover" title="Legion of X by Si Spurrier Vol. 2 TPB Cover"> | Legions of X (2022) #6-10 |
+| Marauders by Steve Orlando Vol. 1 | <img src="/manualnotincluded/images/maraudersbysteveorlando_v01_tpb_cover.webp" width="250px" alt="Marauders by Steve Orlando Vol. 1 TPB Cover" title="Marauders by Steve Orlando Vol. 1 TPB Cover"> | Marauders Annual (2022) #1<br>Marauders (2022) #1-5<br>Marvel's Voices Pride (2021) #1 (Somnus) |
+| Marauders by Steve Orlando Vol. 2 | <img src="/manualnotincluded/images/maraudersbysteveorlando_v02_tpb_cover.webp" width="250px" alt="Marauders by Steve Orlando Vol. 2 TPB Cover" title="Marauders by Steve Orlando Vol. 2 TPB Cover"> | Marauders (2022) #6-10 |
+| New Mutants by Vita Ayala Vol. 3 | <img src="/manualnotincluded/images/newmutantsbyvitaayala_v03_tpb_cover.webp" width="250px" alt="New Mutants by Vita Ayala Vol. 3 TPB Cover" title="New Mutants by Vita Ayala Vol. 3 TPB Cover"> | New Mutants (2019) #25-28 |
+| New Mutants Vol. 4 | <img src="/manualnotincluded/images/newmutants_v04_tpb_cover.webp" width="250px" alt="New Mutants Vol. 4 TPB Cover" title="New Mutants Vol. 4 TPB Cover"> | New Mutants (2019) #29-33 |
+| Sabretooth: The Adversary | <img src="/manualnotincluded/images/sabretooth_-_theadversary_tpb_cover.webp" width="250px" alt="Sabretooth: The Adversary TPB Cover" title="Sabretooth: The Adversary TPB Cover"> | Sabretooth (2022) #1-5 |
 | Sins of Sinister | <img src="/manualnotincluded/images/sinsofsinister_tpb_cover.webp" width="250px" alt="Sins of Sinister TPB Cover" title="Sins of Sinister TPB Cover"> | Sins of Sinister (2023)<br>Immoral X-Men (2023) #1-3<br>Storm & The Brotherhood of Mutants (2023) #1-3<br>Nightcrawlers (2023) #1-3<br>Sins of Sinister Dominion (2023) #1 |
 | Wolverine by Benjamin Percy Vol. 4 | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v04_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 4 TPB Cover" title="Wolverine by Benjamin Percy Vol. 4 TPB Cover"> | Wolverine (2022) #20-25 |
 | Wolverine by Benjamin Percy Vol. 5 | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 5 TPB Cover" title="Wolverine by Benjamin Percy Vol. 5 TPB Cover"> | Wolverine (2022) #26-30 |
@@ -203,5 +203,4 @@ Here's a list of issues that are in volume 11 and 12:
 | X-Men Red by Al Ewing Vol. 1 | <img src="/manualnotincluded/images/x-menredbyalewing_v01_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover"> | X-Men Red (2022) #1-5 |
 | X-Men Red by Al Ewing Vol. 2 | <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> | X-Men Red (2022) #6-10 |
 | X-Men Red by Al Ewing Vol. 3 | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> | X-Men Red (2022) #11-13 |
-| X Lives of Wolverine/X Deaths of Wolverine | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="250px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
- | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 |
+| X Lives of Wolverine/X Deaths of Wolverine | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="250px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover"> | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 |

@@ -17,6 +17,8 @@ With all the preamble out of the way, to the books! The reading order at the sta
 
 ---
 
+## Collected Editions
+
 <p>
     <table>
     <tr>

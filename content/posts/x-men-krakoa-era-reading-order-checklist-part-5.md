@@ -203,5 +203,5 @@ Here's a list of issues that are in volume 11 and 12:
 | X-Men Red by Al Ewing Vol. 1 | X-Men Red (2022) #1-5 | |
 | X-Men Red by Al Ewing Vol. 2 | X-Men Red (2022) #6-10 | |
 | X-Men Red by Al Ewing Vol. 3 | X-Men Red (2022) #11-13 | |
-| X Lives of Wolverine/X Deaths of Wolverine | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
+| X Lives of Wolverine/X Deaths of Wolverine | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="400px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
  |

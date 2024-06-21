@@ -189,19 +189,19 @@ Here's a list of issues that are in volume 11 and 12:
 | Marauders by Steve Orlando Vol. 2 | Marauders (2022) #6-10 | |
 | New Mutants by Vita Ayala Vol. 3 | New Mutants (2019) #25-28 | |
 | New Mutants Vol. 4 | New Mutants (2019) #29-33 | |
-| Sabretooth: The Adversary | Sabretooth (2022) #1-5 | |
-| Sins of Sinister | Sins of Sinister (2023)<br>Immoral X-Men (2023) #1-3<br>Storm & The Brotherhood of Mutants (2023) #1-3<br>Nightcrawlers (2023) #1-3<br>Sins of Sinister Dominion (2023) #1
-| Wolverine by Benjamin Percy Vol. 4 | Wolverine (2022) #20-25 | |
-| Wolverine by Benjamin Percy Vol. 5 | Wolverine (2022) #26-30 | |
-| Wolverine by Benjamin Percy Vol. 6 | Wolverine (2022) #31-35 | |
-| X-Force by Benjamin Percy Vol. 5 | X-Force (2019) #27-33 | |
-| X-Force by Benjamin Percy Vol. 6 | X-Force (2019) #34-38 | |
-| X-Force by Benjamin Percy Vol. 7 | X-Force (2019) #39-42 | |
-| X-Men by Gerry Duggan Vol. 2 | X-Men (2021) #7-12 | |
-| X-Men by Gerry Duggan Vol. 3 | X-Men (2021) #13-18 | |
-| X-Men by Gerry Duggan Vol. 4 | X-Men (2021) #19-24 | |
-| X-Men Red by Al Ewing Vol. 1 | X-Men Red (2022) #1-5 | <img src="/manualnotincluded/images/xmenredbyalewing_v01_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover"> |
-| X-Men Red by Al Ewing Vol. 2 | X-Men Red (2022) #6-10 | <img src="/manualnotincluded/images/xmenredbyalewing_v02_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> |
-| X-Men Red by Al Ewing Vol. 3 | X-Men Red (2022) #11-13 | <img src="/manualnotincluded/images/xmenredbyalewing_v03_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> |
+| Sabretooth: The Adversary | Sabretooth (2022) #1-5 | <img src="/manualnotincluded/images/sabretooth_-_theadversary_tpb_cover.webp" width="400px" alt="Sabretooth: The Adversary TPB Cover" title="Sabretooth: The Adversary TPB Cover">|
+| Sins of Sinister | Sins of Sinister (2023)<br>Immoral X-Men (2023) #1-3<br>Storm & The Brotherhood of Mutants (2023) #1-3<br>Nightcrawlers (2023) #1-3<br>Sins of Sinister Dominion (2023) #1 | <img src="/manualnotincluded/images/sinsofsinister_tpb_cover.webp" width="400px" alt="Sins of Sinister TPB Cover" title="Sins of Sinister TPB Cover"> |
+| Wolverine by Benjamin Percy Vol. 4 | Wolverine (2022) #20-25 | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v04_tpb_cover.webp" width="400px" alt="Wolverine by Benjamin Percy Vol. 4 TPB Cover" title="Wolverine by Benjamin Percy Vol. 4 TPB Cover"> |
+| Wolverine by Benjamin Percy Vol. 5 | Wolverine (2022) #26-30 | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v05_tpb_cover.webp" width="400px" alt="Wolverine by Benjamin Percy Vol. 5 TPB Cover" title="Wolverine by Benjamin Percy Vol. 5 TPB Cover"> |
+| Wolverine by Benjamin Percy Vol. 6 | Wolverine (2022) #31-35 | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v06_tpb_cover.webp" width="400px" alt="Wolverine by Benjamin Percy Vol. 6 TPB Cover" title="Wolverine by Benjamin Percy Vol. 6 TPB Cover"> |
+| X-Force by Benjamin Percy Vol. 5 | X-Force (2019) #27-33 | <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v05_tpb_cover.webp" width="400px" alt="X-Force by Benjamin Percy Vol. 5 TPB Cover" title="X-Force by Benjamin Percy Vol. 5 TPB Cover"> |
+| X-Force by Benjamin Percy Vol. 6 | X-Force (2019) #34-38 | <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v06_tpb_cover.webp" width="400px" alt="X-Force by Benjamin Percy Vol. 6 TPB Cover" title="X-Force by Benjamin Percy Vol. 6 TPB Cover"> |
+| X-Force by Benjamin Percy Vol. 7 | X-Force (2019) #39-42 | <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v07_tpb_cover.webp" width="400px" alt="X-Force by Benjamin Percy Vol. 7 TPB Cover" title="X-Force by Benjamin Percy Vol. 7 TPB Cover"> |
+| X-Men by Gerry Duggan Vol. 2 | X-Men (2021) #7-12 | <img src="/manualnotincluded/images/x-menbygerryduggan_v02_tpb_cover.webp" width="400px" alt="X-Men by Gerry Duggan Vol. 2 TPB Cover" title="X-Men by Gerry Duggan Vol. 2 TPB Cover"> |
+| X-Men by Gerry Duggan Vol. 3 | X-Men (2021) #13-18 | <img src="/manualnotincluded/images/x-menbygerryduggan_v03_tpb_cover.webp" width="400px" alt="X-Men by Gerry Duggan Vol. 3 TPB Cover" title="X-Men by Gerry Duggan Vol. 3 TPB Cover"> |
+| X-Men by Gerry Duggan Vol. 4 | X-Men (2021) #19-24 | <img src="/manualnotincluded/images/x-menbygerryduggan_v04_tpb_cover.webp" width="400px" alt="X-Men by Gerry Duggan Vol. 4 TPB Cover" title="X-Men by Gerry Duggan Vol. 4 TPB Cover"> |
+| X-Men Red by Al Ewing Vol. 1 | X-Men Red (2022) #1-5 | <img src="/manualnotincluded/images/x-menredbyalewing_v01_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover"> |
+| X-Men Red by Al Ewing Vol. 2 | X-Men Red (2022) #6-10 | <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> |
+| X-Men Red by Al Ewing Vol. 3 | X-Men Red (2022) #11-13 | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> |
 | X Lives of Wolverine/X Deaths of Wolverine | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="400px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
  |

@@ -163,136 +163,108 @@ With all the preamble out of the way, to the books! The reading order at the sta
     </tr>
     <tr>
         <td>
-            <img src="/manualnotincluded/images/houseofx_powersofx_tpb_cover.webp" width="250px" alt="House of X/Powers of X TPB Cover" title="House of X/Powers of X TPB Cover">
+            <img src="/manualnotincluded/images/dawnofx_vol10_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 10 TPB Cover" title="Dawn of X Vol. 10 TPB Cover">
         </td>
         <td>
-            <strong>House of X/Powers of X</strong><br>
+            <strong>Dawn of X Vol. 10</strong><br>
             <br>
-            House of X (2019) #1-6<br>
-            Powers of X (2019) #1-6
+            X-Force (2019) #10<br>
+            Excalibur (2019) #9<br>
+            Giant-Size X-Men: Nightcrawler (2020) #1<br>
+            Hellions (2020) #1<br>
+            New Mutants (2019) #9
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/dawnofx_vol11_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 11 TPB Cover" title="Dawn of X Vol. 11 TPB Cover">
+        </td>
+        <td>
+            <strong>Dawn of X Vol. 11</strong><br>
+            <br>
+            New Mutants (2019) #10–11<br>
+            Wolverine (2020) #1<br>
+            Excalibur (2019) #10<br>
+            Hellions (2020) #2-3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/dawnofx_vol12_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 12 TPB Cover" title="Dawn of X Vol. 12 TPB Cover">
+        </td>
+        <td>
+            <strong>Dawn of X Vol. 12</strong><br>
+            <br>
+            Hellions (2020) #4<br>
+            Maruaders (2019) #10<br>
+            X-Factor (2020) #1<br>
+            Giant-Size X-Men: Magneto (2019) #1<br>
+            Cable (2020) #2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/dawnofx_vol13_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 13 TPB Cover" title="Dawn of X Vol. 13 TPB Cover">
+        </td>
+        <td>
+            <strong>Dawn of X Vol. 13</strong><br>
+            <br>
+            Cable (2020) #3–4<br>
+            X-Men (2019) #10<br>
+            Empyre: X-Men (2020) #1–2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/dawnofx_vol14_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 14 TPB Cover" title="Dawn of X Vol. 14 TPB Cover">
+        </td>
+        <td>
+            <strong>Dawn of X Vol. 14</strong><br>
+            <br>
+            Empyre: X-Men (2020) #3–4<br>
+            X-Men (2019) #11<br>
+            Wolverine (2020) #4<br>
+            X-Factor (2020) #2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/dawnofx_vol15_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 15 TPB Cover" title="Dawn of X Vol. 15 TPB Cover">
+        </td>
+        <td>
+            <strong>Dawn of X Vol. 15</strong><br>
+            <br>
+            X-Factor (2020) #3<br>
+            Wolverine (2020) #5<br>
+            New Mutants (2019) #12<br>
+            Marauders (2019) #11–12<br>
+            Giant-Size X-Men: Fantomex (2020) #1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/dawnofx_vol16_tpb_cover.webp" width="250px" alt="Dawn of X Vol. 16 TPB Cover" title="Dawn of X Vol. 16 TPB Cover">
+        </td>
+        <td>
+            <strong>Dawn of X Vol. 16</strong><br>
+            <br>
+            Giant-Size X-Men: Storm (2020) #1<br>
+            X-Force (2019) #11–12<br>
+            Excalibur (2019) #11–12
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/x-men-fantasticfour-4x_tpb_cover.webp" width="250px" alt="X-Men/Fantastic Four: 4x Cover" title="X-Men/Fantastic Four: 4x TPB Cover">
+        </td>
+        <td>
+            <strong>X-MEN/FANTASTIC FOUR: 4X</strong><br>
+            <br>
+            X-Men/Fantastic Four: 4x (2020) #1–4
         </td>
     </tr>
     </table>
 </p>
-
-
-
-
-### Dawn of X Vol. 10
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol10_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 10 TPB Cover" title="Dawn of X Vol. 10 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- X-Force (2019) #10
-- Excalibur (2019) #9
-- Giant-Size X-Men: Nightcrawler (2020) #1
-- Hellions (2020) #1
-- New Mutants (2019) #9
-
----
-
-### Dawn of X Vol. 11
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol11_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 11 TPB Cover" title="Dawn of X Vol. 11 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- New Mutants (2019) #10–11
-- Wolverine (2020) #1
-- Excalibur (2019) #10
-- Hellions (2020) #2
-
----
-
-### Dawn of X Vol. 12
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol12_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 12 TPB Cover" title="Dawn of X Vol. 12 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- Hellions (2020) #4
-- Maruaders (2019) #10
-- X-Factor (2020) #1
-- Giant-Size X-Men: Magneto (2019) #1
-- Cable (2020) #2
-
----
-
-### Dawn of X Vol. 13
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol13_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 13 TPB Cover" title="Dawn of X Vol. 13 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- Cable (2020) #3–4
-- X-Men (2019) #10
-- Empyre: X-Men (2020) #1–2
-
----
-
-### Dawn of X Vol. 14
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol14_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 14 TPB Cover" title="Dawn of X Vol. 14 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- Empyre: X-Men (2020) #3–4
-- X-Men (2019) #11
-- Wolverine (2020) #4
-- X-Factor (2020) #2
-
----
-
-### Dawn of X Vol. 15
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol15_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 15 TPB Cover" title="Dawn of X Vol. 15 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- X-Factor (2020) #3
-- Wolverine (2020) #5
-- New Mutants (2019) #12
-- Marauders (2019) #11–12
-- Giant-Size X-Men: Fantomex (2020) #1
-
----
-
-### Dawn of X Vol. 16
-
-<p>
-    <img src="/manualnotincluded/images/dawnofx_vol16_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 16 TPB Cover" title="Dawn of X Vol. 16 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- Giant-Size X-Men: Storm (2020) #1
-- X-Force (2019) #11–12
-- Excalibur (2019) #11–12
-
----
-
-### X-MEN/FANTASTIC FOUR: 4X
-
-<p>
-    <img src="/manualnotincluded/images/x-men-fantasticfour-4x_tpb_cover.webp" width="400px" alt="X-Men/Fantastic Four: 4x Cover" title="X-Men/Fantastic Four: 4x TPB Cover">
-</p>
-
-**Issues Collected**
-
-- X-Men/Fantastic Four: 4x (2020) #1–4
 
 ---
 
@@ -300,10 +272,8 @@ With all the preamble out of the way, to the books! The reading order at the sta
 [Part 3: Sins of Sinister, Hellfire Gala, Trail of X][Part 3 Link]\
 [Part 4: Fall of X][Part 4 Link]
 
-[^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.
 
-[HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
-[DoX]: https://www.marvel.com/comics/guides/1664/dawn_of_x 'Dawn of X'
-[Part 2 Link]: ../x-men-krakoa-era-checklist-part-2
-[Part 3 Link]: ../x-men-krakoa-era-checklist-part-3
-[Part 4 Link]: ../x-men-krakoa-era-checklist-part-4
+[Part 2 Link]: ../x-men-krakoan-era-reading-order-checklist-part-2
+[Part 3 Link]: ../x-men-krakoan-era-reading-order-checklist-part-3
+[Part 4 Link]: ../x-men-krakoan-era-reading-order-checklist-part-4
+[Part 5 Link]: ../x-men-krakoan-era-reading-order-checklist-part-5

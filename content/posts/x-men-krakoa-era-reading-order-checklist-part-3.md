@@ -1,8 +1,8 @@
 +++
-title = 'X-Men Krakoa Era Checklist (Part 3: Sins of Sinister/Hellfire Gala/Trail of X)'
+title = 'X-Men Krakoa Era Part 3: Trial of X Reading Order/TPB Checklist'
 date = 2024-06-16T18:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
-categories = ["Checklist"]
+categories = ["Checklist", "Reading Order"]
 +++
 
 # Table of Contents

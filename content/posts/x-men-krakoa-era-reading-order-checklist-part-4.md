@@ -1,5 +1,5 @@
 +++
-title = 'Destiny of X Reading Order/TPB Checklist'
+title = 'X-Men Krakoa Era Part 4: Destiny of X Reading Order/TPB Checklist'
 date = 2024-06-19T18:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
 categories = ["Checklist", "Reading Order"]
@@ -16,7 +16,6 @@ Here's a list of issues that are in volume 11 and 12:
 - Devil's Reign: X-Men (2022) #1-3
 - Marauders Annual (2022) #1
 - Sabretooth (2022) #1-3
-
 
 ## Destiny of X Reading ORder
 

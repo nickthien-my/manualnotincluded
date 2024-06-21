@@ -200,8 +200,8 @@ Here's a list of issues that are in volume 11 and 12:
 | X-Men by Gerry Duggan Vol. 2 | X-Men (2021) #7-12 | |
 | X-Men by Gerry Duggan Vol. 3 | X-Men (2021) #13-18 | |
 | X-Men by Gerry Duggan Vol. 4 | X-Men (2021) #19-24 | |
-| X-Men Red by Al Ewing Vol. 1 | X-Men Red (2022) #1-5 | |
-| X-Men Red by Al Ewing Vol. 2 | X-Men Red (2022) #6-10 | |
-| X-Men Red by Al Ewing Vol. 3 | X-Men Red (2022) #11-13 | |
+| X-Men Red by Al Ewing Vol. 1 | X-Men Red (2022) #1-5 | <img src="/manualnotincluded/images/xmenredbyalewing_v01_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover"> |
+| X-Men Red by Al Ewing Vol. 2 | X-Men Red (2022) #6-10 | <img src="/manualnotincluded/images/xmenredbyalewing_v02_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> |
+| X-Men Red by Al Ewing Vol. 3 | X-Men Red (2022) #11-13 | <img src="/manualnotincluded/images/xmenredbyalewing_v03_tpb_cover.webp" width="400px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> |
 | X Lives of Wolverine/X Deaths of Wolverine | X Lives of Wolverine #1-5<br> X Deaths of Wolverine #1-5 | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="400px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
  |

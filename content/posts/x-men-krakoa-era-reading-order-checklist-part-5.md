@@ -466,10 +466,9 @@ Here's a list of issues that are in volume 11 and 12:
             <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 5 TPB Cover" title="Wolverine by Benjamin Percy Vol. 5 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
-            <br>
-           
-           
+            <strong>Wolverine by Benjamin Percy Vol. 5</strong><br>
+            <br>           
+            Wolverine (2022) #26-30
         </td>
     </tr>
     <tr>
@@ -477,10 +476,9 @@ Here's a list of issues that are in volume 11 and 12:
             <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v06_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 6 TPB Cover" title="Wolverine by Benjamin Percy Vol. 6 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>Wolverine by Benjamin Percy Vol. 6</strong><br>
             <br>
-           
-           
+            Wolverine (2022) #31-35
         </td>
     </tr>
     <tr>
@@ -488,10 +486,10 @@ Here's a list of issues that are in volume 11 and 12:
             <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="250px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X Lives of Wolverine/X Deaths of Wolverine</strong><br>
             <br>
-           
-           
+            X Lives of Wolverine (2022) #1-5<br>
+            X Deaths of Wolverine (2022) #1-5           
         </td>
     </tr>
     <tr>
@@ -499,10 +497,9 @@ Here's a list of issues that are in volume 11 and 12:
             <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 5 TPB Cover" title="X-Force by Benjamin Percy Vol. 5 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Force by Benjamin Percy Vol. 5</strong><br>
             <br>
-           
-           
+            X-Force (2019) #27-33           
         </td>
     </tr>
     <tr>
@@ -510,10 +507,9 @@ Here's a list of issues that are in volume 11 and 12:
             <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v06_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 6 TPB Cover" title="X-Force by Benjamin Percy Vol. 6 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Force by Benjamin Percy Vol. 6</strong><br>
             <br>
-           
-           
+            X-Force (2019) #34-38
         </td>
     </tr>
     <tr>
@@ -521,131 +517,94 @@ Here's a list of issues that are in volume 11 and 12:
             <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v07_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 7 TPB Cover" title="X-Force by Benjamin Percy Vol. 7 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Force by Benjamin Percy Vol. 7</strong><br>
             <br>
-           
-           
+            X-Force (2019) #39-42
         </td>
     </tr>
     <tr>
         <td>
-
+            <img src="/manualnotincluded/images/x-menbygerryduggan_v02_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 2 TPB Cover" title="X-Men by Gerry Duggan Vol. 2 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men by Gerry Duggan Vol. 2</strong><br>
             <br>
-           
-           
+            X-Men (2021) #7-12
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-menbygerryduggan_v03_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 3 TPB Cover" title="X-Men by Gerry Duggan Vol. 3 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men by Gerry Duggan Vol. 3</strong><br>
             <br>
-           
-           
+            X-Men (2021) #13-18
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-menbygerryduggan_v04_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 4 TPB Cover" title="X-Men by Gerry Duggan Vol. 4 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men by Gerry Duggan Vol. 4</strong><br>
             <br>
-           
-           
+            X-Men (2021) #19-24
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-men_-_hellfiregala_-_immortal_tpb_cover.webp" width="250px" alt="X-Men: Hellfire Gala - Immortal TPB Cover" title="X-Men: Hellfire Gala - Immortal TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men: Hellfire Gala - Immortal</strong><br>
             <br>
-           
-           
+            X-Men: Hellfire Gala (2020) #1<br>
+            The Secret X-Men (2020) #1<br>
+            X-Men Unlimited Infinity Comic #50-55<br>
+            Amazing Spider-Man (2022) #9<br>
+            Free Comic Book Day 2022: Avengers/X-Men #1           
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-menredbyalewing_v01_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men Red by Al Ewing Vol. 1</strong><br>
             <br>
-           
-           
+            X-Men Red (2022) #1-5
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men Red by Al Ewing Vol. 2</strong><br>
             <br>
-           
-           
+            X-Men Red (2022) #6-10
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Men Red by Al Ewing Vol. 3</strong><br>
             <br>
-           
-           
+            X-Men Red (2022) #11-13
         </td>
     </tr>
     <tr>
         <td>
-            
+            <img src="/manualnotincluded/images/x-terminators_tpb_cover.webp" width="250px" alt="X-Terminators TPB Cover" title="X-Terminators TPB Cover">
         </td>
         <td>
-            <strong> </strong><br>
+            <strong>X-Terminators</strong><br>
             <br>
-           
-           
+            X-Terminators (2022) #1-5
         </td>
     </tr>
     </table>
 </p>
-
-
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **** |  |  |
-| **Wolverine by Benjamin Percy Vol. 5** |  | Wolverine (2022) #26-30 |
-| **Wolverine by Benjamin Percy Vol. 6** |  | Wolverine (2022) #31-35 |
-| **X Lives of Wolverine/X Deaths of Wolverine** |  | X Lives of Wolverine (2022) #1-5<br> X Deaths of Wolverine (2022) #1-5 |
-| **X-Force by Benjamin Percy Vol. 5** |  | X-Force (2019) #27-33 |
-| **X-Force by Benjamin Percy Vol. 6** |  | X-Force (2019) #34-38 |
-| **X-Force by Benjamin Percy Vol. 7** |  | X-Force (2019) #39-42 |
-| **X-Men by Gerry Duggan Vol. 2** | <img src="/manualnotincluded/images/x-menbygerryduggan_v02_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 2 TPB Cover" title="X-Men by Gerry Duggan Vol. 2 TPB Cover"> | X-Men (2021) #7-12 |
-| **X-Men by Gerry Duggan Vol. 3** | <img src="/manualnotincluded/images/x-menbygerryduggan_v03_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 3 TPB Cover" title="X-Men by Gerry Duggan Vol. 3 TPB Cover"> | X-Men (2021) #13-18 |
-| **X-Men by Gerry Duggan Vol. 4** | <img src="/manualnotincluded/images/x-menbygerryduggan_v04_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 4 TPB Cover" title="X-Men by Gerry Duggan Vol. 4 TPB Cover"> | X-Men (2021) #19-24 |
-| **X-Men: Hellfire Gala - Immortal** | <img src="/manualnotincluded/images/x-men_-_hellfiregala_-_immortal_tpb_cover.webp" width="250px" alt="X-Men: Hellfire Gala - Immortal TPB Cover" title="X-Men: Hellfire Gala - Immortal TPB Cover"> | X-Men: Hellfire Gala (2020) #1<br>The Secret X-Men (2020) #1<br>X-Men Unlimited Infinity Comic #50-55<br>Amazing Spider-Man (2022) #9<br>Free Comic Book Day 2022: Avengers/X-Men #1 |
-| **X-Men Red by Al Ewing Vol. 1** | <img src="/manualnotincluded/images/x-menredbyalewing_v01_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover"> | X-Men Red (2022) #1-5 |
-| **X-Men Red by Al Ewing Vol. 2** | X-Men Red (2022) #6-10 |
-| **X-Men Red by Al Ewing Vol. 3** | X-Men Red (2022) #11-13 |
-| **X-Terminators** | X-Terminators (2022) #1-5 |
-
-| <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> | <img src="/manualnotincluded/images/x-terminators_tpb_cover.webp" width="250px" alt="X-Terminators TPB Cover" title="X-Terminators TPB Cover"> |

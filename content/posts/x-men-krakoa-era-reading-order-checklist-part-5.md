@@ -283,37 +283,362 @@ Here's a list of issues that are in volume 11 and 12:
             Immortal X-Men (2022) #1-6
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/immortalx-menbykierongillen_v02_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover">
+        </td>
+        <td>
+            <strong>Immortal X-Men by Kieron Gillen Vol. 2</strong><br>
+            <br>
+            Immortal X-Men (2022) #7-10
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/immortalx-menbykierongillen_v03_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover">
+        </td>
+        <td>
+            <strong>Immortal X-Men by Kieron Gillen Vol. 3</strong><br>
+            <br>
+            Immortal X-Men (2022) #11-13<br>
+            X-Men: Before the Fall - Sinister Four (2023) #1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/immortalx-menbykierongillen_v03_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover">
+        </td>
+        <td>
+            <strong>Immortal X-Men by Kieron Gillen Vol. 3</strong><br>
+            <br>
+            Immortal X-Men (2022) #11-13<br>
+            X-Men: Before the Fall - Sinister Four (2023) #1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/knightsofx_tpb_cover.webp" width="250px" alt="Knights of X TPB Cover" title="Knights of X TPB Cover">
+        </td>
+        <td>
+            <strong>Knights of X</strong><br>
+            <br>
+            Knights of X (2022) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/legionofxbysispurrier_v01_tpb_cover.webp" width="250px" alt="Legion of X by Si Spurrier Vol. 1 TPB Cover" title="Legion of X by Si Spurrier Vol. 1 TPB Cover">
+        </td>
+        <td>
+            <strong>Legion of X by Si Spurrier Vol. 1</strong><br>
+            <br>
+            Legion of X (2022) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/legionofxbysispurrier_v02_tpb_cover.webp" width="250px" alt="Legion of X by Si Spurrier Vol. 2 TPB Cover" title="Legion of X by Si Spurrier Vol. 2 TPB Cover">
+        </td>
+        <td>
+            <strong>Legion of X by Si Spurrier Vol. 2</strong><br>
+            <br>
+            Legion of X (2022) #6-10
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/maraudersbysteveorlando_v01_tpb_cover.webp" width="250px" alt="Marauders by Steve Orlando Vol. 1 TPB Cover" title="Marauders by Steve Orlando Vol. 1 TPB Cover">
+        </td>
+        <td>
+            <strong>Marauders by Steve Orlando Vol. 1</strong><br>
+            <br>
+            Marauders Annual (2022) #1<br>
+            Marauders (2022) #1-5<br>
+            Marvel's Voices Pride (2021) #1 (Somnus)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/maraudersbysteveorlando_v02_tpb_cover.webp" width="250px" alt="Marauders by Steve Orlando Vol. 2 TPB Cover" title="Marauders by Steve Orlando Vol. 2 TPB Cover">
+        </td>
+        <td>
+            <strong>Marauders by Steve Orlando Vol. 2</strong><br>
+            <br>
+            Marauders (2022) #6-10           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/maryjane&blackcat_-_darkweb_tpb_cover.webp" width="250px" alt="Mary Jane & Black Cat: Dark Web TPB Cover" title="Mary Jane & Black Cat: Dark Web TPB Cover">
+        </td>
+        <td>
+            <strong>Mary Jane & Black Cat: Dark Web</strong><br>
+            <br>
+            Mary Jane & Black Cat (2023) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/newmutantsbyvitaayala_v03_tpb_cover.webp" width="250px" alt="New Mutants by Vita Ayala Vol. 3 TPB Cover" title="New Mutants by Vita Ayala Vol. 3 TPB Cover">
+        </td>
+        <td>
+            <strong>New Mutants by Vita Ayala Vol. 3</strong><br>
+            <br>
+            New Mutants (2019) #25-28
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/newmutants_v04_tpb_cover.webp" width="250px" alt="New Mutants Vol. 4 TPB Cover" title="New Mutants Vol. 4 TPB Cover">
+        </td>
+        <td>
+            <strong>New Mutants Vol. 4</strong><br>
+            <br>
+            New Mutants (2019) #29-33
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/newmutants_-_lethallegion_tpb_cover.webp" width="250px" alt="New Mutants: Lethal Legion TPB Cover" title="New Mutants: Lethal Legion TPB Cover">
+        </td>
+        <td>
+            <strong>New Mutants: Lethal Legion</strong><br>
+            <br>
+            New Mutants: Lethal Legion (2023) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/rogue&gambit_-_powerplay_tpb_cover.webp" width="250px" alt="Rogue & Gambit: Power Play TPB Cover" title="New Mutants: Rogue & Gambit: Power Play TPB Cover">
+        </td>
+        <td>
+            <strong>Rogue & Gambit: Power Play</strong><br>
+            <br>
+            Rogue & Gambit (2023) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/sabretooth_-_theadversary_tpb_cover.webp" width="250px" alt="Sabretooth: The Adversary TPB Cover" title="Sabretooth: The Adversary TPB Cover">
+        </td>
+        <td>
+            <strong>Sabretooth: The Adversary</strong><br>
+            <br>
+            Sabretooth (2022) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/sabretooth&theexiles_tpb_cover.webp" width="250px" alt="Sabretooth & the Exiles TPB Cover" title="Sabretooth & The Exiles TPB Cover">
+        </td>
+        <td>
+            <strong>Sabretooth & the Exiles</strong><br>
+            <br>
+            Sabretooth & the Exiles (2023) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/sinsofsinister_tpb_cover.webp" width="250px" alt="Sins of Sinister TPB Cover" title="Sins of Sinister TPB Cover">
+        </td>
+        <td>
+            <strong>Sins of Sinister</strong><br>
+            <br>
+            Sins of Sinister (2023)<br>
+            Immoral X-Men (2023) #1-3<br>
+            Storm & The Brotherhood of Mutants (2023) #1-3<br>
+            Nightcrawlers (2023) #1-3<br>
+            Sins of Sinister Dominion (2023) #1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v04_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 4 TPB Cover" title="Wolverine by Benjamin Percy Vol. 4 TPB Cover">
+        </td>
+        <td>
+            <strong>Wolverine by Benjamin Percy Vol. 4</strong><br>
+            <br>
+            Wolverine (2022) #20-25
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 5 TPB Cover" title="Wolverine by Benjamin Percy Vol. 5 TPB Cover">
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v06_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 6 TPB Cover" title="Wolverine by Benjamin Percy Vol. 6 TPB Cover">
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="250px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover">
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 5 TPB Cover" title="X-Force by Benjamin Percy Vol. 5 TPB Cover">
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v06_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 6 TPB Cover" title="X-Force by Benjamin Percy Vol. 6 TPB Cover">
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v07_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 7 TPB Cover" title="X-Force by Benjamin Percy Vol. 7 TPB Cover">
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <strong> </strong><br>
+            <br>
+           
+           
+        </td>
+    </tr>
     </table>
 </p>
 
 
-| **** |  | <br><br><br><br><br> |
 | **** |  |  |
 | **** |  |  |
 | **** |  |  |
 | **** |  |  |
-| **Immortal X-Men by Kieron Gillen Vol. 2** | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v02_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover"> | Immortal X-Men (2022) #7-10  |
-| **Immortal X-Men by Kieron Gillen Vol. 3** | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v03_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover"> | Immortal X-Men (2022) #11-13<br>X-Men: Before the Fall - Sinister Four (2023) #1 |
-| **Knights of X** | <img src="/manualnotincluded/images/knightsofx_tpb_cover.webp" width="250px" alt="Knights of X TPB Cover" title="Knights of X TPB Cover"> | Knights of X (2022) #1-5 |
-| **Legion of X by Si Spurrier Vol. 1** | <img src="/manualnotincluded/images/legionofxbysispurrier_v01_tpb_cover.webp" width="250px" alt="Legion of X by Si Spurrier Vol. 1 TPB Cover" title="Legion of X by Si Spurrier Vol. 1 TPB Cover"> | Legion of X (2022) #1-5 |
-| **Legion of X by Si Spurrier Vol. 2** | <img src="/manualnotincluded/images/legionofxbysispurrier_v02_tpb_cover.webp" width="250px" alt="Legion of X by Si Spurrier Vol. 2 TPB Cover" title="Legion of X by Si Spurrier Vol. 2 TPB Cover"> | Legion of X (2022) #6-10 |
-| **Marauders by Steve Orlando Vol. 1** | <img src="/manualnotincluded/images/maraudersbysteveorlando_v01_tpb_cover.webp" width="250px" alt="Marauders by Steve Orlando Vol. 1 TPB Cover" title="Marauders by Steve Orlando Vol. 1 TPB Cover"> | Marauders Annual (2022) #1<br>Marauders (2022) #1-5<br>Marvel's Voices Pride (2021) #1 (Somnus) |
-| **Marauders by Steve Orlando Vol. 2** | <img src="/manualnotincluded/images/maraudersbysteveorlando_v02_tpb_cover.webp" width="250px" alt="Marauders by Steve Orlando Vol. 2 TPB Cover" title="Marauders by Steve Orlando Vol. 2 TPB Cover"> | Marauders (2022) #6-10 |
-| **Mary Jane & Black Cat: Dark Web** | <img src="/manualnotincluded/images/maryjane&blackcat_-_darkweb_tpb_cover.webp" width="250px" alt="Mary Jane & Black Cat: Dark Web TPB Cover" title="Mary Jane & Black Cat: Dark Web TPB Cover"> | Mary Jane & Black Cat (2023) #1-5 |
-| **New Mutants by Vita Ayala Vol. 3** | <img src="/manualnotincluded/images/newmutantsbyvitaayala_v03_tpb_cover.webp" width="250px" alt="New Mutants by Vita Ayala Vol. 3 TPB Cover" title="New Mutants by Vita Ayala Vol. 3 TPB Cover"> | New Mutants (2019) #25-28 |
-| **New Mutants Vol. 4** | <img src="/manualnotincluded/images/newmutants_v04_tpb_cover.webp" width="250px" alt="New Mutants Vol. 4 TPB Cover" title="New Mutants Vol. 4 TPB Cover"> | New Mutants (2019) #29-33 |
-| **New Mutants: Lethal Legion** | <img src="/manualnotincluded/images/newmutants_-_lethallegion_tpb_cover.webp" width="250px" alt="New Mutants: Lethal Legion TPB Cover" title="New Mutants: Lethal Legion TPB Cover"> | New Mutants: Lethal Legion (2023) #1-5 |
-| **Rogue & Gambit: Power Play** | <img src="/manualnotincluded/images/rogue&gambit_-_powerplay_tpb_cover.webp" width="250px" alt="Rogue & Gambit: Power Play TPB Cover" title="New Mutants: Rogue & Gambit: Power Play TPB Cover"> | New Mutants: Rogue & Gambit (2023) #1-5 |
-| **Sabretooth: The Adversary** | <img src="/manualnotincluded/images/sabretooth_-_theadversary_tpb_cover.webp" width="250px" alt="Sabretooth: The Adversary TPB Cover" title="Sabretooth: The Adversary TPB Cover"> | Sabretooth (2022) #1-5 |
-| **Sabretooth & the Exiles** | <img src="/manualnotincluded/images/sabretooth&theexiles_tpb_cover.webp" width="250px" alt="Sabretooth & the Exiles TPB Cover" title="Sabretooth & The Exiles TPB Cover"> | Sabretooth & the Exiles (2023) #1-5 |
-| **Sins of Sinister** | <img src="/manualnotincluded/images/sinsofsinister_tpb_cover.webp" width="250px" alt="Sins of Sinister TPB Cover" title="Sins of Sinister TPB Cover"> | Sins of Sinister (2023)<br>Immoral X-Men (2023) #1-3<br>Storm & The Brotherhood of Mutants (2023) #1-3<br>Nightcrawlers (2023) #1-3<br>Sins of Sinister Dominion (2023) #1 |
-| **Wolverine by Benjamin Percy Vol. 4** | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v04_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 4 TPB Cover" title="Wolverine by Benjamin Percy Vol. 4 TPB Cover"> | Wolverine (2022) #20-25 |
-| **Wolverine by Benjamin Percy Vol. 5** | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 5 TPB Cover" title="Wolverine by Benjamin Percy Vol. 5 TPB Cover"> | Wolverine (2022) #26-30 |
-| **Wolverine by Benjamin Percy Vol. 6** | <img src="/manualnotincluded/images/wolverinebybenjaminpercy_v06_tpb_cover.webp" width="250px" alt="Wolverine by Benjamin Percy Vol. 6 TPB Cover" title="Wolverine by Benjamin Percy Vol. 6 TPB Cover"> | Wolverine (2022) #31-35 |
-| **X Lives of Wolverine/X Deaths of Wolverine** | <img src="/manualnotincluded/images/xlivesofwolverine-xdeathsofwolverine_tpb_cover.webp" width="250px" alt="X Lives of Wolverine/X Deaths of Wolverine TPB Cover" title="X Lives of Wolverine/X Deaths of Wolverine TPB Cover"> | X Lives of Wolverine (2022) #1-5<br> X Deaths of Wolverine (2022) #1-5 |
-| **X-Force by Benjamin Percy Vol. 5** | <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v05_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 5 TPB Cover" title="X-Force by Benjamin Percy Vol. 5 TPB Cover"> | X-Force (2019) #27-33 |
-| **X-Force by Benjamin Percy Vol. 6** | <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v06_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 6 TPB Cover" title="X-Force by Benjamin Percy Vol. 6 TPB Cover"> | X-Force (2019) #34-38 |
-| **X-Force by Benjamin Percy Vol. 7** | <img src="/manualnotincluded/images/x-forcebybenjaminpercy_v07_tpb_cover.webp" width="250px" alt="X-Force by Benjamin Percy Vol. 7 TPB Cover" title="X-Force by Benjamin Percy Vol. 7 TPB Cover"> | X-Force (2019) #39-42 |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **Wolverine by Benjamin Percy Vol. 5** |  | Wolverine (2022) #26-30 |
+| **Wolverine by Benjamin Percy Vol. 6** |  | Wolverine (2022) #31-35 |
+| **X Lives of Wolverine/X Deaths of Wolverine** |  | X Lives of Wolverine (2022) #1-5<br> X Deaths of Wolverine (2022) #1-5 |
+| **X-Force by Benjamin Percy Vol. 5** |  | X-Force (2019) #27-33 |
+| **X-Force by Benjamin Percy Vol. 6** |  | X-Force (2019) #34-38 |
+| **X-Force by Benjamin Percy Vol. 7** |  | X-Force (2019) #39-42 |
 | **X-Men by Gerry Duggan Vol. 2** | <img src="/manualnotincluded/images/x-menbygerryduggan_v02_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 2 TPB Cover" title="X-Men by Gerry Duggan Vol. 2 TPB Cover"> | X-Men (2021) #7-12 |
 | **X-Men by Gerry Duggan Vol. 3** | <img src="/manualnotincluded/images/x-menbygerryduggan_v03_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 3 TPB Cover" title="X-Men by Gerry Duggan Vol. 3 TPB Cover"> | X-Men (2021) #13-18 |
 | **X-Men by Gerry Duggan Vol. 4** | <img src="/manualnotincluded/images/x-menbygerryduggan_v04_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 4 TPB Cover" title="X-Men by Gerry Duggan Vol. 4 TPB Cover"> | X-Men (2021) #19-24 |

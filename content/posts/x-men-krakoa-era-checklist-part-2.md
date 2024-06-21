@@ -1,6 +1,6 @@
 +++
 title = 'X-Men Krakoa Era Checklist (Part 2: X of Swords, Reign of X)'
-date = 2024-06-14T01:00:00+08:00
+date = 2024-06-15T18:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
 categories = ["Checklist"]
 +++

@@ -215,6 +215,10 @@ Here's a list of issues that are in volume 11 and 12:
 | **X-Men by Gerry Duggan Vol. 4** | <img src="/manualnotincluded/images/x-menbygerryduggan_v04_tpb_cover.webp" width="250px" alt="X-Men by Gerry Duggan Vol. 4 TPB Cover" title="X-Men by Gerry Duggan Vol. 4 TPB Cover"> | X-Men (2021) #19-24 |
 | **X-Men: Hellfire Gala - Immortal** | <img src="/manualnotincluded/images/x-men_-_hellfiregala_-_immortal_tpb_cover.webp" width="250px" alt="X-Men: Hellfire Gala - Immortal TPB Cover" title="X-Men: Hellfire Gala - Immortal TPB Cover"> | X-Men: Hellfire Gala (2020) #1<br>The Secret X-Men (2020) #1<br>X-Men Unlimited Infinity Comic #50-55<br>Amazing Spider-Man (2022) #9<br>Free Comic Book Day 2022: Avengers/X-Men #1 |
 | **X-Men Red by Al Ewing Vol. 1** | <img src="/manualnotincluded/images/x-menredbyalewing_v01_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 1 TPB Cover" title="X-Men Red by Al Ewing Vol. 1 TPB Cover"> | X-Men Red (2022) #1-5 |
-| **X-Men Red by Al Ewing Vol. 2** | <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> | X-Men Red (2022) #6-10 |
-| **X-Men Red by Al Ewing Vol. 3** | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> | X-Men Red (2022) #11-13 |
-| **X-Terminators** | <img src="/manualnotincluded/images/x-terminators_tpb_cover.webp" width="250px" alt="X-Terminators TPB Cover" title="X-Terminators TPB Cover"> | X-Terminators (2022) #1-5 |
+| **X-Men Red by Al Ewing Vol. 2** | X-Men Red (2022) #6-10 |
+| **X-Men Red by Al Ewing Vol. 3** | X-Men Red (2022) #11-13 |
+| **X-Terminators** | X-Terminators (2022) #1-5 |
+
+## Cover Gallery
+
+| <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> | <img src="/manualnotincluded/images/x-terminators_tpb_cover.webp" alt="X-Terminators TPB Cover" title="X-Terminators TPB Cover"> |

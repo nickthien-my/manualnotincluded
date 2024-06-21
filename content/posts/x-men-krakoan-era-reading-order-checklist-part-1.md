@@ -1,42 +1,19 @@
 +++
-title = 'X-Men Krakoa Era Part 1: House of X/Powers of X, Dawn of X Reading Order/TPB Checklist'
+title = 'X-Men Krakoan Era Part 1: House of X/Powers of X, Dawn of X Reading Order/TPB Checklist'
 date = 2024-06-14T18:00:00+08:00
-tags = ["X-Men", "Marvel", "Krakoa Era"]
+tags = ["X-Men", "Marvel", "Krakoan Era"]
 categories = ["Checklist", "Reading Order"]
 +++
 
-# Table of Contents
-- [House of X/Powers of X](#house-of-xpowers-of-x)
-- [Dawn of X](#dawn-of-x)
-- [X of Swords](../x-men-krakoa-era-checklist-part-2)
-- [Reign of X](../x-men-krakoa-era-checklist-part-2)
-- [Trials of X](#trials-of-x)
-- Fall of X/Fall of House of X
+Here's where it all starts. The Krakoan era of X-Men. If you didn't know, for the better part of two decades the movie rights to the X-Men and the Fantastic Four belonged to Fox. Because of this, the X-Men/FF characters were kept in a state of perpetual limbo so that Fox wouldn't get access to any new characters or stories that were created for the X-Men and FF. One could argue that the same thing is happening to Spider-Man due to the movie rights being in the hands of Sony. When the movie rights finally reverted back to Marvel, or more specifically Disney, when Fox was acquired by Disney in 2019. That same year, under writer Jonathan Hickman, Marvel relaunched the X-Men line with *House of X/Powers of X* (I've heard people read that as "ten", it'll make sense when you read the comic).
 
-# TPB Checklist
+This relaunch led to the reboots of X-Men, New Mutants, Marauders, etc. Some lines were great, others got canned six issues in (Fallen Angels). We saw the return of many characters as well as the introduction of many more. But the question on many people's mind if they heard the positive buzz, or like me got super hyped because of the new X-Men '97 TV show, is how should I read the books under the X-Men umbrella? Thankfully, Marvel decided to help their readers by collecting the books in reading order with their *of X* line of books.
 
-## House of X/Powers of X
+Before we dive straight into the books, let us start by laying out the books, their chronology and their general importance. Let's start with the number of phases that the X-Men book go through, we begin with *House of X/Powers of X*, followed up by *Dawn of X* line of books where we're introduced to the new Krakoan era and how the mutant fit into the world. After establishing the new status quo, we then enter into the Reign of X phase which is broken up into two collection of books, *Reign of X* and *Trials of X*. Somewhere around the Trials phase, we have the instigating event, *Inferno*, which starts the domino effect that will lead to the end of the Krokoan era. We finish off the rest of the Trials of X phase, head into Destiny of X and finally culminating Fall of X. It is in Destiny of X where the books start to branch out beyond the original scope, a result of Jonathan Hickman leaving the series as well as Marvel starting to bring the X-Men characters back into the greater Marvel pool of characters. We see this in the Destiny of X phase with both the A.X.E: Judgment Day and Dark Web events.
 
-- [ ] [House of X/Powers of X](#house-of-xpowers-of-x-2)
+It is also at this point that Marvel cancelled the anthology line of books, I'll talk more about this decision during the Destiny of X part. Which then leads us to the end of the Krakoan era with Fall of X where most of the books, outside of Wolverine, stops and only a handful of books that focus on the Fall of X are released. At the time of writing, X-Men #35/LGY#700 has already been released and we're not in a post Krakoan era world. But that doesn't mean there won't be new or returning fans asking how they should go about reading these books and hopefully I can help ease the process.
 
-## Dawn of X
-
-- [ ] [Dawn of X Vol. 1](#dawn-of-x-vol-1)
-- [ ] [Dawn of X Vol. 2](#dawn-of-x-vol-2)
-- [ ] [Dawn of X Vol. 3](#dawn-of-x-vol-3)
-- [ ] [Dawn of X Vol. 4](#dawn-of-x-vol-4)
-- [ ] [Dawn of X Vol. 5](#dawn-of-x-vol-5)
-- [ ] [Dawn of X Vol. 6](#dawn-of-x-vol-6)
-- [ ] [Dawn of X Vol. 7](#dawn-of-x-vol-7)
-- [ ] [Dawn of X Vol. 8](#dawn-of-x-vol-8)
-- [ ] [Dawn of X Vol. 9](#dawn-of-x-vol-9)
-- [ ] [Dawn of X Vol. 10](#dawn-of-x-vol-10)
-- [ ] [Dawn of X Vol. 11](#dawn-of-x-vol-11)
-- [ ] [Dawn of X Vol. 12](#dawn-of-x-vol-12)
-- [ ] [Dawn of X Vol. 13](#dawn-of-x-vol-13)
-- [ ] [Dawn of X Vol. 14](#dawn-of-x-vol-14)
-- [ ] [Dawn of X Vol. 15](#dawn-of-x-vol-15)
-- [ ] [Dawn of X Vol. 16](#dawn-of-x-vol-16)
+With all the preamble out of the way, to the books!
 
 ---
 

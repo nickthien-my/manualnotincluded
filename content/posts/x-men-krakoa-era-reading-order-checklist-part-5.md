@@ -306,17 +306,6 @@ Here's a list of issues that are in volume 11 and 12:
     </tr>
     <tr>
         <td>
-            <img src="/manualnotincluded/images/immortalx-menbykierongillen_v03_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover">
-        </td>
-        <td>
-            <strong>Immortal X-Men by Kieron Gillen Vol. 3</strong><br>
-            <br>
-            Immortal X-Men (2022) #11-13<br>
-            X-Men: Before the Fall - Sinister Four (2023) #1
-        </td>
-    </tr>
-    <tr>
-        <td>
             <img src="/manualnotincluded/images/knightsofx_tpb_cover.webp" width="250px" alt="Knights of X TPB Cover" title="Knights of X TPB Cover">
         </td>
         <td>

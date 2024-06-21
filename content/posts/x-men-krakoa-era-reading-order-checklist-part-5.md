@@ -181,6 +181,9 @@ Here's a list of issues that are in volume 11 and 12:
     <table>
     <tr>
         <td>
+            <img src="/manualnotincluded/images/axe_-_judgmentday_tpb_cover.webp" width="250px" alt="A.X.E.: Judgment Day TPB Cover" title="A.X.E.: Judgment Day TPB Cover">
+        </td>
+        <td>
             <strong>A.X.E.: Judgement Day</strong><br>
             <br>
             A.X.E.: Judgment Day (2022) #1-6<br>
@@ -189,8 +192,20 @@ Here's a list of issues that are in volume 11 and 12:
             A.X.E.: Eternals (2022) #1<br>
             Free Comic Book Day 2022: Avengers/X-Men #1
         </td>
+    </tr>
+    <tr>
         <td>
-            <img src="/manualnotincluded/images/axe_-_judgmentday_tpb_cover.webp" width="250px" alt="A.X.E.: Judgment Day TPB Cover" title="A.X.E.: Judgment Day TPB Cover">
+            <img src="/manualnotincluded/images/axe_-_judgmentdaycompanion_tpb_cover.webp" width="250px" alt="A.X.E.: Judgment Day Companion TPB Cover" title="A.X.E.: Judgment Day Companion TPB Cover">
+        </td>
+        <td>
+            <strong>A.X.E.: Judgement Day Companion</strong><br>
+            <br>
+            A.X.E.: Eve of Judgment (2022) #1<br>
+            A.X.E.: Judgment Day Omega (2022) #1<br>
+            A.X.E.: Death to the Mutants (2022) #1-3<br>
+            A.X.E.: Starfox (2022) #1<br>
+            A.X.E.: Iron Fist (2022) #1<br>
+            Fantastic Four (2018) #47-48
         </td>
     </tr>
     </table>
@@ -198,7 +213,7 @@ Here's a list of issues that are in volume 11 and 12:
 
 
 
-| **A.X.E.: Judgment Day Companion** |  |A.X.E.: Eve of Judgment (2022) #1<br>A.X.E.: Judgment Day Omega (2022) #1<br>A.X.E.: Death to the Mutants (2022) #1-3<br>A.X.E.: Starfox (2022) #1<br>A.X.E.: Iron Fist (2022) #1<br>Fantastic Four (2018) #47-48 |
+| **A.X.E.: Judgment Day Companion** |  |<br><br><br><br><br> |
 | **Betsy Braddock: Captain Britain** |  | Betsy Braddock: Captain Britain (2023) #1-5 |
 | **Bishop: War College** | <img src="/manualnotincluded/images/bishop_-_warcollege_tpb_cover.webp" width="250px" alt="Bishop: War College TPB Cover" title="Bishop: War College TPB Cover"> | Bishop: War College (2023) #1-5 |
 | **Dark Web** | <img src="/manualnotincluded/images/darkweb_tpb_cover.webp" width="250px" alt="Dark Web TPB Cover" title="Dark Web TPB Cover"> | Dark Web (2022) #1<br>Amazing Spider-Man (2022) #15-18<br>Venom (2021) #14-16<br>Dark Web: X-Men (2022) #1-3<br>Dark Web: Ms. Marvel (2022) #1-2<br>Dark Web Finale (2023) #1 |
@@ -238,5 +253,5 @@ Here's a list of issues that are in volume 11 and 12:
 | **X-Terminators** | X-Terminators (2022) #1-5 |
 
 ## Cover Gallery
-|  | <img src="/manualnotincluded/images/axe_-_judgmentdaycompanion_tpb_cover.webp" width="250px" alt="A.X.E.: Judgment Day Companion TPB Cover" title="A.X.E.: Judgment Day Companion TPB Cover"> | <img src="/manualnotincluded/images/betsybraddock_-_captainbritain_tpb_cover.webp" width="250px" alt="Betsy Braddock: Captain Britain TPB Cover" title="Betsy Braddock: Captain Britain TPB Cover"> |
+|  |  | <img src="/manualnotincluded/images/betsybraddock_-_captainbritain_tpb_cover.webp" width="250px" alt="Betsy Braddock: Captain Britain TPB Cover" title="Betsy Braddock: Captain Britain TPB Cover"> |
 | <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> | <img src="/manualnotincluded/images/x-terminators_tpb_cover.webp" width="250px" alt="X-Terminators TPB Cover" title="X-Terminators TPB Cover"> |

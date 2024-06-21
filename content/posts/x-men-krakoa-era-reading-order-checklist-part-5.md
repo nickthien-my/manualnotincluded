@@ -208,19 +208,90 @@ Here's a list of issues that are in volume 11 and 12:
             Fantastic Four (2018) #47-48
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/betsybraddock_-_captainbritain_tpb_cover.webp" width="250px" alt="Betsy Braddock: Captain Britain TPB Cover" title="Betsy Braddock: Captain Britain TPB Cover">
+        </td>
+        <td>
+            <strong>Betsy Braddock: Captain Britain</strong><br>
+            <br>
+            Betsy Braddock: Captain Britain (2023) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/bishop_-_warcollege_tpb_cover.webp" width="250px" alt="Bishop: War College TPB Cover" title="Bishop: War College TPB Cover">
+        </td>
+        <td>
+            <strong>Bishop: War College</strong><br>
+            <br>
+            Bishop: War College (2023) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/darkweb_tpb_cover.webp" width="250px" alt="Dark Web TPB Cover" title="Dark Web TPB Cover">
+        </td>
+        <td>
+            <strong>Dark Web</strong><br>
+            <br>
+            Dark Web (2022) #1<br>
+            Amazing Spider-Man (2022) #15-18<br>
+            Venom (2021) #14-16<br>
+            Dark Web: X-Men (2022) #1-3<br>
+            Dark Web: Ms. Marvel (2022) #1-2<br>
+            Dark Web Finale (2023) #1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/deadpoolbyalyssawong_v01_tpb_cover.webp" width="250px" alt="Deadpool by Alyssa Wong Vol. 1 TPB Cover" title="Deadpool by Alyssa Wong Vol.1 TPB Cover">
+        </td>
+        <td>
+            <strong>Deadpool by Alyssa Wong Vol. 1</strong><br>
+            <br>
+            Deadpool (2022) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/deadpoolbyalyssawong_v02_tpb_cover.webp" width="250px" alt="Deadpool by Alyssa Wong Vol. 2 TPB Cover" title="Deadpool by Alyssa Wong Vol.2 TPB Cover">
+        </td>
+        <td>
+            <strong>Deadpool by Alyssa Wong Vol. 2</strong><br>
+            <br>
+            Deadpool (2022) #6-10
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/goldgoblin_tpb_cover.webp" width="250px" alt="Gold Goblin TPB Cover" title="Gold Goblin TPB Cover">
+        </td>
+        <td>
+            <strong>Gold Goblin</strong><br>
+            <br>
+            Gold Goblin (2022) #1-5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/manualnotincluded/images/immortalx-menbykierongillen_v01_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 1 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 1 TPB Cover">
+        </td>
+        <td>
+            <strong>Immortal X-Men by Kieron Gillen Vol. 1</strong><br>
+            <br>
+            Immortal X-Men (2022) #1-6
+        </td>
+    </tr>
     </table>
 </p>
 
 
-
-| **A.X.E.: Judgment Day Companion** |  |<br><br><br><br><br> |
-| **Betsy Braddock: Captain Britain** |  | Betsy Braddock: Captain Britain (2023) #1-5 |
-| **Bishop: War College** | <img src="/manualnotincluded/images/bishop_-_warcollege_tpb_cover.webp" width="250px" alt="Bishop: War College TPB Cover" title="Bishop: War College TPB Cover"> | Bishop: War College (2023) #1-5 |
-| **Dark Web** | <img src="/manualnotincluded/images/darkweb_tpb_cover.webp" width="250px" alt="Dark Web TPB Cover" title="Dark Web TPB Cover"> | Dark Web (2022) #1<br>Amazing Spider-Man (2022) #15-18<br>Venom (2021) #14-16<br>Dark Web: X-Men (2022) #1-3<br>Dark Web: Ms. Marvel (2022) #1-2<br>Dark Web Finale (2023) #1 |
-| **Deadpool by Alyssa Wong Vol. 1** | <img src="/manualnotincluded/images/deadpoolbyalyssawong_v01_tpb_cover.webp" width="250px" alt="Deadpool by Alyssa Wong Vol. 1 TPB Cover" title="Deadpool by Alyssa Wong Vol.1 TPB Cover"> | Deadpool (2022) #1-5 |
-| **Deadpool by Alyssa Wong Vol. 2** | <img src="/manualnotincluded/images/deadpoolbyalyssawong_v02_tpb_cover.webp" width="250px" alt="Deadpool by Alyssa Wong Vol. 2 TPB Cover" title="Deadpool by Alyssa Wong Vol.2 TPB Cover"> | Deadpool (2022) #6-10 |
-| **Gold Goblin** | <img src="/manualnotincluded/images/goldgoblin_tpb_cover.webp" width="250px" alt="Gold Goblin TPB Cover" title="Gold Goblin TPB Cover"> | Gold Goblin (2022) #1-5 |
-| **Immortal X-Men by Kieron Gillen Vol. 1** | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v01_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 1 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 1 TPB Cover"> | Immortal X-Men (2022) #1-6 |
+| **** |  | <br><br><br><br><br> |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
+| **** |  |  |
 | **Immortal X-Men by Kieron Gillen Vol. 2** | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v02_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 2 TPB Cover"> | Immortal X-Men (2022) #7-10  |
 | **Immortal X-Men by Kieron Gillen Vol. 3** | <img src="/manualnotincluded/images/immortalx-menbykierongillen_v03_tpb_cover.webp" width="250px" alt="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover" title="Immortal X-Men by Kieron Gillen Vol. 3 TPB Cover"> | Immortal X-Men (2022) #11-13<br>X-Men: Before the Fall - Sinister Four (2023) #1 |
 | **Knights of X** | <img src="/manualnotincluded/images/knightsofx_tpb_cover.webp" width="250px" alt="Knights of X TPB Cover" title="Knights of X TPB Cover"> | Knights of X (2022) #1-5 |
@@ -252,6 +323,4 @@ Here's a list of issues that are in volume 11 and 12:
 | **X-Men Red by Al Ewing Vol. 3** | X-Men Red (2022) #11-13 |
 | **X-Terminators** | X-Terminators (2022) #1-5 |
 
-## Cover Gallery
-|  |  | <img src="/manualnotincluded/images/betsybraddock_-_captainbritain_tpb_cover.webp" width="250px" alt="Betsy Braddock: Captain Britain TPB Cover" title="Betsy Braddock: Captain Britain TPB Cover"> |
 | <img src="/manualnotincluded/images/x-menredbyalewing_v02_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 2 TPB Cover" title="X-Men Red by Al Ewing Vol. 2 TPB Cover"> | <img src="/manualnotincluded/images/x-menredbyalewing_v03_tpb_cover.webp" width="250px" alt="X-Men Red by Al Ewing Vol. 3 TPB Cover" title="X-Men Red by Al Ewing Vol. 3 TPB Cover"> | <img src="/manualnotincluded/images/x-terminators_tpb_cover.webp" width="250px" alt="X-Terminators TPB Cover" title="X-Terminators TPB Cover"> |

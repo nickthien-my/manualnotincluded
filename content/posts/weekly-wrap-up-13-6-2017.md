@@ -6,7 +6,7 @@ categories = ["Esports"]
 +++
 > Keeping you up to date with what happened in FDG over the past week.
 
-> **Editor's Note:** The original Fire Dragoon website was not preservered or archived properly. So most, if not all, media or thumbnails are gone and what we're left with is my text.
+> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So most, if not all, media or thumbnails are gone and what we're left with is my text.
 
 Last week in Fire Dragoon.
 

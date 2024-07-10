@@ -1,7 +1,7 @@
 +++
 title = '[Fire Dragoon] Weekly Wrap-Up - 13/6/2017'
 date = 2017-06-13T14:30:00+08:00
-tags = ["Fire Dragoon"]
+tags = ["Fire Dragoon", "League of Legends", "Counter-Strike: Global Offensive"]
 categories = ["Esports"]
 +++
 > Keeping you up to date with what happened in FDG over the past week.

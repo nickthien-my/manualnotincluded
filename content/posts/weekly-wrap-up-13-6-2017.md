@@ -1,5 +1,5 @@
 +++
-title = 'Weekly Wrap-Up - 13/6/2017'
+title = '[Fire Dragoon] Weekly Wrap-Up - 13/6/2017'
 date = 2017-06-13T14:30:00+08:00
 tags = ["Fire Dragoon"]
 categories = ["Esports"]

@@ -1,5 +1,5 @@
 +++
-title = '[Fire Dragoon] Dota Team\'s First Rumble'
+title = "[Fire Dragoon] Dota Team's First Rumble"
 date = 2017-09-08T19:00:00+08:00
 tags = ["Fire Dragoon", "Dota 2"]
 categories = ["Esports"]

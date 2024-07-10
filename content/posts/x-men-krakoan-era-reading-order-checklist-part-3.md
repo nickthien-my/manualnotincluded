@@ -3,6 +3,7 @@ title = 'X-Men Krakoan Era Part 3: Trial of X Reading Order/TPB Checklist'
 date = 2024-06-16T18:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoa Era"]
 categories = ["Checklist", "Reading Order"]
+draft = 'true'
 +++
 
 # Table of Contents

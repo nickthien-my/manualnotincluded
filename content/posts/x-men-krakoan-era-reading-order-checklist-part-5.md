@@ -3,6 +3,7 @@ title = 'X-Men Krakoan Era Checklist (Part 4: Fall of X)'
 date = 2024-06-22T18:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoan Era"]
 categories = ["Checklist", "Reading Order"]
+draft = 'true'
 +++
 
 # Table of Contents

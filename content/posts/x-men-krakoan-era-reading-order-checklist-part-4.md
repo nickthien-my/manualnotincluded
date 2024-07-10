@@ -3,6 +3,7 @@ title = 'X-Men Krakoan Era Part 4: Destiny of X Reading Order/TPB Checklist'
 date = 2024-06-19T18:00:00+08:00
 tags = ["X-Men", "Marvel", "Krakoan Era"]
 categories = ["Checklist", "Reading Order"]
+draft = 'true'
 +++
 
 From this point on, Marvel has unfortunately decided to stop doing anthologies for the X-Men books. One of the reason I heard online was that given how the books weren't as interconnected as they were in the beginning of the Krakoa era of books, the anthologies would be collecting stories that had little to do with each other. That is to be debated but as the series started to spread out since Trials of X, there might be some validity to that.

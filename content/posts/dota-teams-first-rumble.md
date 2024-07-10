@@ -7,7 +7,7 @@ categories = ["Esports"]
 
 > The very first outing of our newly minted Dota team.
 
-> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So most, if not all, media or thumbnails are gone and what we're left with is my text.
+> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So limited amount of images or media managed to be saved. The purpose of these posts is to keep them for posterity.
 	
 Last weekend, we had the debut of our new *Dota 2* roster, with new signees *Adam "adam" Shah*, former coach of *[compLexity](https://www.facebook.com/ComplexityGaming/)*, *[Digital Chaos](https://www.facebook.com/digitalchaosgg/)* & former player of *[Fnatic](https://www.facebook.com/fnatic/)* and *[Lai "AhJit" Jay Son](https://www.facebook.com/AhJit-2004881129734926/)*, who hails from *[WarriorsGaming.Unity](https://www.facebook.com/WG.Unity/)*, and most recently, played with the Fnatic roster in *The International 7* not more than a month ago.
 

@@ -6,7 +6,7 @@ categories = ["Esports"]
 +++
 > Our Dota player, Ahjit, gives a quick introduction to the new Dota offlaner, KanGaroo.
 
-> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So most, if not all, media or thumbnails are gone and what we're left with is my text.
+> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So limited amount of images or media managed to be saved. The purpose of these posts is to keep them for posterity.
 
 After the most recent change in roster for the *Dota* team, there was void that had to be filled with *Adam "adam" Shah* moving on. Answering the call was *Raphael "KanGaroo" Chua*, our new Divine ranked off-laner. He's no stranger to the world of Malaysian Dota and a previous teammate of *Ahjit*. So we got Ahjit to let us know their history, why KanGaroo was chosen and their future plans.
 

@@ -6,7 +6,7 @@ categories = ["Esports"]
 +++
 > Keeping you up to date with what happened in FDG over the past week.
 
-> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So most, if not all, media or thumbnails are gone and what we're left with is my text.
+> **Editor's Note:** The original Fire Dragoon website was not preserved or archived properly. So limited amount of images or media managed to be saved. The purpose of these posts is to keep them for posterity.
 
 After weeks of training, our *Fire Dragoon (FDG)* *League of Legends (LoL)* team finally started on their journey into *Garena*'s *The Legends Circuit (TLC) 2017*. Traveling to Seputeh to begin their first round, our team was fired up to finally break out of the routine of daily training with some competition. Their first two matches in the group stage was against *Nirvana Gaming (NvG)*. In the first round, the FDG Team dominated against NvG. However, NvG managed to rally back and put a tough fight in round 2 leading to a a draw in the first round of the TLC Group Stage. The current standing for FDG at the end of the first week is that we are currently in the 5th place. Having scored only one point for the win against NvG. With 4 matches this weekend, there is a good chance for the team to make up lost ground against the other teams.
 
